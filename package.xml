@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+    <name>tbd</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>apache</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>This extension allows the user to import order details (customer name and address into the netParcel.com application for order shipping. &#xD;
+License: Open Software License (OSL)</summary>
+    <description>This extension allows the user to import order details (customer name and address into the netParcel.com application for order shipping. &#xD;
+License: Open Software License (OSL)</description>
+    <notes>API to import customer orders into netParcel</notes>
+    <authors><author><name>netParcel</name><user>netParcel</user><email>support@netparcel.com</email></author></authors>
+    <date>2015-02-27</date>
+    <time>18:26:44</time>
+    <contents></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
