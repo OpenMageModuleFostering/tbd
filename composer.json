@@ -1,17 +1,5 @@
 {
-    "name": "OpenMageModuleFostering/tbd",
-    "type": "magento-module",
-    "license": "apache",
-    "homepage": "",
-    "description": "This extension allows the user to import order details (customer name and address into the netParcel.com application for order shipping. 
-License: Open Software License (OSL)",
-    "authors": [
-    {
-        "name": "netParcel",
-        "email": "support@netparcel.com"
-    }
-],
-    "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+    "keywords": [
+        "openmage-module"
+    ]
 }
